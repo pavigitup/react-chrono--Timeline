@@ -1,0 +1,9 @@
+.project-con {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.image-project {
+  width: 100%;
+}
